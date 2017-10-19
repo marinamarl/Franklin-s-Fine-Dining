@@ -1,6 +1,7 @@
 <?php
 define("TITLE","Home | Franklin's Fine Dining");
 include('includes/header.php');
+//includes/header.php needs, ofcourse, the file header.php to be in a folder called includes. duh.
  ?>
  <div id="philosophy">
    <hr>
